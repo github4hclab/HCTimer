@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<hcTimer>
+<link>localhost:13240/TimerWeb</link>
+ 
+<startLogin>true</startLogin>
+ 
+<minToTray>true</minToTray>
+  
+<autoLogin>true</autoLogin>
+  
+<remember>false</remember>
+   
+<updateTime>5</updateTime>
+ 
+<ac></ac>
+<pa></pa>
+
+</hcTimer>

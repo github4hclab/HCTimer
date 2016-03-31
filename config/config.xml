@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hcTimer>
+  <link>192.168.1.161:8080</link>
+  <startLogin>true</startLogin>
+  <minToTray>true</minToTray>
+  <autoLogin>false</autoLogin>
+  <remember>true</remember>
+  <updateTime>10</updateTime>
+  <ac></ac>
+  <pa></pa>
+</hcTimer>
